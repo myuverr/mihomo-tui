@@ -8,6 +8,7 @@ on:
       - main
     paths-ignore: &paths_ignore
       - "docs/vhs/**"
+      - "docs/screenshots/**"
       - "README.md"
       - "CHANGELOG.md"
       - "LICENSE"

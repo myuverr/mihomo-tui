@@ -5,6 +5,14 @@
 
 - Cross-platform support (macOS, Windows, Linux)
 - Intuitive keyboard only control
+- Real-time traffic and memory monitoring
+- Proxy and proxy group management with latency testing
+- Connection tracking
+- Rule viewer with filtering and toggleable disabled states (meta >= v1.19.19)
+- Live log streaming
+- Core configuration editor with JSON5 comments and integrated system actions (Reload, Restart, etc.)
+
+[screenshots](./docs/screenshots)
 
 ![demo](https://vhs.charm.sh/vhs-643E3TjiFfRjTL9PSsCU02.gif)
 > The terminal font shown in demo GIFs is [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic),
